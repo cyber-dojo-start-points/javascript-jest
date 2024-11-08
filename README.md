@@ -1,6 +1,7 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/javascript-jest.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/javascript-jest)
+[![Github Action (main)](https://github.com/cyber-dojo-start-points/javascript-jest/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/javascript-jest/actions)
 
-### display_name="JavaScript 21.5, Jest 29.7"
-### image_name="[cyberdojofoundation/javascript_node_jest](https://hub.docker.com/repository/docker/cyberdojofoundation/javascript_node_jest)"
+
+### display_name="JavaScript 23.1.0, Jest 29.7.0"
+### image_name="[ghcr.io/cyber-dojo-languages/javascript_node_jest](https://hub.docker.com/repository/docker/cyberdojofoundation/javascript_node_jest)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
