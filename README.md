@@ -2,6 +2,6 @@
 
 
 ### display_name="JavaScript 23.1.0, Jest 29.7.0"
-### image_name="[ghcr.io/cyber-dojo-languages/javascript_node_jest](https://hub.docker.com/repository/docker/cyberdojofoundation/javascript_node_jest)"
+### image_name="[ghcr.io/cyber-dojo-languages/javascript_node_jest](https://github.com/cyber-dojo-languages/javascript-jest/pkgs/container/javascript_node_jest)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
