@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/.eslintrc.json /**/*.js",
-    "test": "jest --coverage"
+    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js",
+    "test": "node --experimental-vm-modules ${CYBER_DOJO_SANDBOX}/node_modules/jest/bin/jest.js --coverage"
   },
   "jest": {
     "coverageReporters": [ "text" ]
-  }
+  },
+  "type": "module"
 }
