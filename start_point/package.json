@@ -1,7 +1,7 @@
 {
   "scripts": {
     "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js",
-    "test": "node ${CYBER_DOJO_SANDBOX}/node_modules/jest/bin/jest.js --coverage"
+    "test": "jest --coverage"
   },
   "jest": {
     "coverageReporters": [ "text" ]
