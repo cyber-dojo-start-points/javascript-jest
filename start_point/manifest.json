@@ -1,6 +1,6 @@
 {
   "display_name": "JavaScript 25.8, Jest 30.2",
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jest:ad2540d",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jest:a455acb",
   "visible_filenames": [
     "hiker.test.js",
     "hiker.js",
