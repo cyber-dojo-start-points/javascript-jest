@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript 23.7, Jest 29.7",
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jest:daccb6d",
+  "display_name": "JavaScript 25.8, Jest 30.2",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jest:ad2540d",
   "visible_filenames": [
     "hiker.test.js",
     "hiker.js",
@@ -8,6 +8,7 @@
     "eslint.config.js",
     "package.json"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".js"
   ],

@@ -1,6 +1,6 @@
 'use strict';
 
-import answer from './hiker';
+const answer = require('./hiker');
 
 describe('answer', () => {
   it('to life the universe and everything', () => {
