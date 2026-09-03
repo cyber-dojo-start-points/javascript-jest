@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js",
+    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js ${CYBER_DOJO_SANDBOX}",
     "test": "jest --coverage"
   },
   "jest": {
