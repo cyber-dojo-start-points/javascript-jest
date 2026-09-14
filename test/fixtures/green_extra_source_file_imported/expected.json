@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 50,
+  "match_counts": {
+    "^PASS \\./hiker\\.test\\.js$": 1,
+    "^Test Suites: 1 passed, 1 total$": 1,
+    "^Tests: +2 passed, 2 total$": 1,
+    "^ checksum\\.js +\\| +100 \\| +100 \\| +100 \\| +100 \\|": 1,
+    "^ hiker\\.js +\\| +100 \\| +100 \\| +100 \\| +100 \\|": 1,
+    "^FAIL": 0
+  }
+}

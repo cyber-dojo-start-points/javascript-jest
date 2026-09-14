@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^FAIL \\./hiker\\.test\\.js$": 1,
+    "^Test Suites: 1 failed, 1 total$": 1,
+    "^Tests: +1 failed, 1 total$": 1,
+    "^ +TypeError: Cannot read properties of null \\(reading 'length'\\)$": 1,
+    "^ +Expected: ": 0,
+    "SyntaxError": 0
+  }
+}
