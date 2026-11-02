@@ -1,14 +1,14 @@
 {
-  "display_name": "JavaScript 26.12.1, Jest 30.5.2",
+  "display_name": "JavaScript 26.13.0, Jest 30.5.2",
   "language": [
     "JavaScript",
-    "26.12.1"
+    "26.13.0"
   ],
   "test_framework": [
     "Jest",
     "30.5.2"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jest:d5a2859@sha256:79b6136ba988d8893f41a8e2c1521b57014ae1f3a65eabaaca5d418cd19028a8",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jest:7b259f3@sha256:c97bc8a9cbaabf84ef3a96d77ab20daae5c4fa9255943a04add5eff5cf4e89e0",
   "visible_filenames": [
     "hiker.test.js",
     "hiker.js",
